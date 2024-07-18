@@ -1,0 +1,9 @@
+title: System 2 Reasoning At Scale Workshop @ NeurIPS
+description: System 2 Reasoning At Scale Workshop @ NeurIPS
+  ---
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Build settings
+markdown: kramdown
+include: ['_pages']
+ga_id: G-N5C97J84YW
