@@ -13,7 +13,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <center><h1>System 2 Reasoning At Scale</h1></center>
-    <center><h2>December, 2024. NeurIPS Workshop, Vancouver, Canada</h2></center>
+    <center><h2>December, 2024. <a href="https://neurips.cc/">NeurIPS</a> Workshop, Vancouver, Canada</h2></center>
     
   </div>
 </div>
@@ -37,6 +37,93 @@ acknowledgements: ""
         More details coming soon.
     </div>
 </div>
+
+
+<hr />
+
+<!-- Organizers -->
+<div class="row" id="organizers">
+  <div class="col-xs-12">
+    <h2>Organizers</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://murtyshikhar.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/shikhar.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://murtyshikhar.github.io/">Shikhar Murty</a>
+      <h6>Stanford</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://federicobianchi.io/">
+      <img class="people-pic" src="{{ "/static/img/people/fede.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://federicobianchi.io/">Federico Bianchi</a>
+      <h6>Xyla</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://robertcsordas.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/csordas.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://robertcsordas.github.io/">Róbert Csordás</a>
+      <h6>Stanford</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://nouhadziri.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/nouha.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://nouhadziri.github.io/">Nouha Dziri</a>
+      <h6>AI2</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://minimario.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/AlexGu.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://minimario.github.io/">Alex Gu</a>
+      <h6>MIT</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://ysymyth.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/ShunyuYao.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://ysymyth.github.io/">Shunyu Yao</a>
+      <h6>Princeton</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://nlp.stanford.edu/~manning/">
+      <img class="people-pic" src="{{ "/static/img/people/chris-manning.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://nlp.stanford.edu/~manning/">Christopher D. Manning</a>
+      <h6>Stanford</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://homes.cs.washington.edu/~yejin/">
+      <img class="people-pic" src="{{ "/static/img/people/yejin-choi.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://homes.cs.washington.edu/~yejin/">Yejin Choi</a>
+      <h6>University of Washington / AI2</h6>
+    </div>
+  </div>
+</div>
+
+<hr />
+
 
 <br/>
 <center>

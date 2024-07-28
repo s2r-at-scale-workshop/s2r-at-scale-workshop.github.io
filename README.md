@@ -4,4 +4,4 @@ Website for the System 2 Reasoning Workshop @ NeurIPS 2024 (https://s2r-at-scale
 
 Template from: 
 
-https://vigilworkshop.github.io/
+https://github.com/vigilworkshop/vigilworkshop.github.io
