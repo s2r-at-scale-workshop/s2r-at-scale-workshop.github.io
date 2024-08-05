@@ -13,7 +13,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <center><h1>System 2 Reasoning At Scale</h1></center>
-    <center><h2>December, 2024. <a href="https://neurips.cc/">NeurIPS</a> Workshop, Vancouver, Canada</h2></center>
+    <center><h2>December 15, 2024. <a href="https://neurips.cc/">NeurIPS</a> Workshop, Vancouver, Canada</h2></center>
     
   </div>
 </div>
@@ -31,13 +31,59 @@ acknowledgements: ""
 <br />
 
 <hr />
-<!-- Intro -->
-<div class="row" id="intro">
-    <div class="col-xs-12">
-        More details coming soon.
-    </div>
+
+
+<!-- CfP -->
+<div class="row" id="cfp">
+  <div class="col-xs-12">
+    <h2>Call for Papers</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+      The authors are welcome to submit a 4-page paper based on in-progress work, or relevant paper being presented at the main conference, that aim to answer the following questions:
+    </p>
+    <p>
+          <ul>
+            <li>What do we need to imbue language models with System-2 reasoning capabilities?</li>
+            <li>Do we need this kind of capability?</li>
+            <li>Are scale and the “bitter lesson” going to dictate how the future of AI technology will unfold?</li>
+            <li>Do we need a different mechanism for implementing System-2 reasoning, or should it be a property that emerges from a possibly different training method?</li>
+            <li>Where should a system like this be implemented? Implicitly inside the model, or explicitly in
+            some engineered system around the model, like search or graph of thought?</li>
+            <li> How do we benchmark System-2-like generalization? How do we avoid data contamination?</li>
+          </ul>
+      </p>
+      <p>We welcome review and positional papers that may foster discussions. Accepted papers will be presented during poster sessions, with exceptional submissions selected for spotlight oral presentations. Accepted papers will be made publicly available as <i>*non-archival*</i> reports, allowing future submissions to archival conferences or journals. </p>
+  </div>
 </div>
 
+
+<hr />
+
+<!-- Submission -->
+<div class="row" id="guidelines">
+  <div class="col-xs-12">
+    <h2>Submission Guidelines</h2>
+  </div>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+      <p>
+            Please upload submissions on <a style="color:#2980b9;font-weight:400;" href="https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/Sys2-Reasoning">OpenReview</a>.
+        </p>
+        <p>
+      All submissions must be in PDF format. The submissions must be formated using the <a style="color:#2980b9;font-weight:400;" href="https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip">NeurIPS 2024 LaTeX style file</a>. We accept both <i>short (4 pages)</i> and <i>long papers (8 pages)</i>. Short papers generally have a point that can be described in a few pages. For example, it can be a small, focused contribution, a negative result, an opinion piece, or an interesting application nugget. The page limit includes all figures and tables; additional pages containing statements of acknowledgments, funding disclosures, and references are allowed. The OpenReview-based review process will be double-blind to avoid potential conflicts of interest.
+      </p>
+      <p>
+        <b>Submission deadline:</b> Sept 23, 2024
+      </p>
+    <p>
+        In case of any issues, feel free to email the workshop organizers at: <a href="mailto:s2-reasoning-neurips2024@googlegroups.com">s2-reasoning-neurips2024@googlegroups.com</a>.
+    </p>
+    </div>
+</div>
 
 <hr />
 

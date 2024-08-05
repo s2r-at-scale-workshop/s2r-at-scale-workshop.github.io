@@ -45,6 +45,19 @@
     <script type="text/javascript" src="{{ "/static/js/moment.js" | prepend:site.baseurl }}"></script>
     <script type="text/javascript" src="{{ "/static/js/moment-timezone.js" | prepend:site.baseurl }}"></script>
     <script type="text/javascript" src="{{ "/static/js/timezones.js" | prepend:site.baseurl }}"></script>
+
+    <script>
+      $(document).ready(function() {
+            $('a.nav-link').click(function(event) {
+                event.preventDefault();
+                var target = $(this).attr('href');
+                var offset = $(target).offset().top - 80; // Adjust the offset value to fix the vertical offset issue
+                $('html, body').animate({
+                    scrollTop: offset
+                }, 500);
+            });
+        });
+    </script>
   </body>
 </html>
 
