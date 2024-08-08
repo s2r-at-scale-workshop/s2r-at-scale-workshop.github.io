@@ -79,10 +79,61 @@ acknowledgements: ""
       <p>
         <b>Submission deadline:</b> Sept 23, 2024
       </p>
+      <p>
+        <b>Notification:</b> Oct 9, 2024
+      </p>
     <p>
         In case of any issues, feel free to email the workshop organizers at: <a href="mailto:s2-reasoning-neurips2024@googlegroups.com">s2-reasoning-neurips2024@googlegroups.com</a>.
     </p>
     </div>
+</div>
+
+<hr />
+
+<!-- Speakers -->
+
+<div class="row">
+    <div class="col-xs-12">
+        <p>
+          We already have an exciting lineup of speakers who will be discussing the challenges of integrating nerual networks with symbolic reasoning, and developing new architectures for enhanced reasoning capabilities. Stay tuned for more to come soon!
+        </p>
+    </div>
+</div>
+
+<div class="row" id="speakers">
+  <div class="col-xs-12">
+    <h2>Speakers</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://melaniemitchell.me/" target="_blank">
+      <img class="people-pic" src="{{ "/static/img/people/mm.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://melaniemitchell.me/">Melanie Mitchell</a>
+      <h6>Santa Fe Institute</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://cocosci.mit.edu/josh">
+      <img class="people-pic" src="{{ "/static/img/people/jt.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://cocosci.mit.edu/josh">Joshua Tenenbaum</a>
+      <h6>Massachusetts Institute of Technology</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://rizar.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/db.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://rizar.github.io/">Dzmitry Bahdanau</a>
+      <h6>Stanford</h6>
+    </div>
+  </div>
+
 </div>
 
 <hr />
