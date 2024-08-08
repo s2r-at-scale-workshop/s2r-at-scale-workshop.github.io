@@ -92,6 +92,13 @@ acknowledgements: ""
 
 <!-- Speakers -->
 
+
+
+<div class="row" id="speakers">
+  <div class="col-xs-12">
+    <h2>Speakers</h2>
+  </div>
+</div>
 <div class="row">
     <div class="col-xs-12">
         <p>
@@ -100,11 +107,6 @@ acknowledgements: ""
     </div>
 </div>
 
-<div class="row" id="speakers">
-  <div class="col-xs-12">
-    <h2>Speakers</h2>
-  </div>
-</div>
 <div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="https://melaniemitchell.me/" target="_blank">
