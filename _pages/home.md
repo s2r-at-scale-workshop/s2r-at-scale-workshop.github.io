@@ -117,7 +117,7 @@ acknowledgements: ""
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://cocosci.mit.edu/josh">
-      <img class="people-pic" src="{{ "/static/img/people/jt.jpeg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/jt.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://cocosci.mit.edu/josh">Joshua Tenenbaum</a>
@@ -126,11 +126,11 @@ acknowledgements: ""
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://rizar.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/db.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/db.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://rizar.github.io/">Dzmitry Bahdanau</a>
-      <h6>Stanford</h6>
+      <h6>Service Now</h6>
     </div>
   </div>
 
