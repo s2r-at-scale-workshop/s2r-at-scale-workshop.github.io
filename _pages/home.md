@@ -119,7 +119,7 @@ acknowledgements: ""
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://cocosci.mit.edu/josh">
-      <img class="people-pic" src="{{ "/static/img/people/jt.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/jt.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://cocosci.mit.edu/josh">Joshua Tenenbaum</a>
