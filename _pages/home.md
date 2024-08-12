@@ -42,7 +42,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      The authors are welcome to submit a 4-page paper based on in-progress work, or relevant paper being presented at the main conference, that aim to answer the following questions:
+      The authors are welcome to submit a 4-page or 8-page (short/long) paper based on in-progress work, or a relevant paper being presented at the main conference, that aims to answer the following questions:
     </p>
     <p>
           <ul>
