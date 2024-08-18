@@ -42,7 +42,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      The authors are welcome to submit a 4-page paper based on in-progress work, or relevant paper being presented at the main conference, that aim to answer the following questions:
+      The authors are welcome to submit a 4-page or 8-page (short/long) paper based on in-progress work, or a relevant paper being presented at the main conference, that aims to answer the following questions:
     </p>
     <p>
           <ul>
@@ -92,6 +92,13 @@ acknowledgements: ""
 
 <!-- Speakers -->
 
+
+
+<div class="row" id="speakers">
+  <div class="col-xs-12">
+    <h2>Speakers</h2>
+  </div>
+</div>
 <div class="row">
     <div class="col-xs-12">
         <p>
@@ -100,11 +107,6 @@ acknowledgements: ""
     </div>
 </div>
 
-<div class="row" id="speakers">
-  <div class="col-xs-12">
-    <h2>Speakers</h2>
-  </div>
-</div>
 <div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="https://melaniemitchell.me/" target="_blank">
@@ -117,7 +119,7 @@ acknowledgements: ""
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://cocosci.mit.edu/josh">
-      <img class="people-pic" src="{{ "/static/img/people/jt.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/jt.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://cocosci.mit.edu/josh">Joshua Tenenbaum</a>
