@@ -133,6 +133,24 @@ acknowledgements: ""
       <h6>Service Now</h6>
     </div>
   </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://tallinzen.net/">
+      <img class="people-pic" src="{{ "/static/img/people/tl.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://tallinzen.net/">Tal Linzen</a>
+      <h6>NYU/Google</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://www.neyshabur.net/">
+      <img class="people-pic" src="{{ "/static/img/people/bn.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.neyshabur.net/">Behnam Neyshabur</a>
+      <h6>Deep Mind</h6>
+    </div>
+  </div>
 
 </div>
 
