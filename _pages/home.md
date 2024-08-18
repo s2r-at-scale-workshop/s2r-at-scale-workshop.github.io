@@ -136,8 +136,10 @@ acknowledgements: ""
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
+</div>
+<div class="row">
     <a href="https://tallinzen.net/">
-      <img class="people-pic" src="{{ "/static/img/people/tl.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/tl.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://tallinzen.net/">Tal Linzen</a>
@@ -146,7 +148,7 @@ acknowledgements: ""
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://www.neyshabur.net/">
-      <img class="people-pic" src="{{ "/static/img/people/bn.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/bn.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.neyshabur.net/">Behnam Neyshabur</a>
