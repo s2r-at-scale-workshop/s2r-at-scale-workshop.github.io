@@ -135,9 +135,9 @@ acknowledgements: ""
       <h6>Service Now</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
 </div>
 <div class="row">
+  <div class="col-xs-6 col-lg-3">
     <a href="https://tallinzen.net/">
       <img class="people-pic" src="{{ "/static/img/people/tl.jpeg" | prepend:site.baseurl }}">
     </a>
@@ -155,7 +155,6 @@ acknowledgements: ""
       <h6>DeepMind</h6>
     </div>
   </div>
-
 </div>
 
 <hr />
