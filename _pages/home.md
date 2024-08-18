@@ -152,7 +152,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://www.neyshabur.net/">Behnam Neyshabur</a>
-      <h6>Deep Mind</h6>
+      <h6>DeepMind</h6>
     </div>
   </div>
 
