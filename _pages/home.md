@@ -127,6 +127,45 @@ acknowledgements: ""
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
+    <a href="https://tallinzen.net/">
+      <img class="people-pic" src="{{ "/static/img/people/tl.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://tallinzen.net/">Tal Linzen</a>
+      <h6>NYU/Google</h6>
+    </div>
+  </div>
+</div>
+
+<hr />
+
+<!-- Panelists -->
+
+<div class="row" id="panelists">
+  <div class="col-xs-12">
+    <h2>Panelists</h2>
+  </div>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+        <p>
+          We will have a panel discussion on the challenges of integrating neural networks with symbolic reasoning and developing better AI models!
+          More to confirm!
+        </p>
+    </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://cocosci.mit.edu/josh">
+      <img class="people-pic" src="{{ "/static/img/people/jt.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://cocosci.mit.edu/josh">Joshua Tenenbaum</a>
+      <h6>Massachusetts Institute of Technology</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
     <a href="https://rizar.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/db.png" | prepend:site.baseurl }}">
     </a>
@@ -135,8 +174,6 @@ acknowledgements: ""
       <h6>Service Now</h6>
     </div>
   </div>
-</div>
-<div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="https://tallinzen.net/">
       <img class="people-pic" src="{{ "/static/img/people/tl.jpeg" | prepend:site.baseurl }}">
@@ -146,16 +183,9 @@ acknowledgements: ""
       <h6>NYU/Google</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://www.neyshabur.net/">
-      <img class="people-pic" src="{{ "/static/img/people/bn.jpeg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.neyshabur.net/">Behnam Neyshabur</a>
-      <h6>DeepMind</h6>
-    </div>
-  </div>
+
 </div>
+
 
 <hr />
 
