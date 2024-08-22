@@ -135,6 +135,15 @@ acknowledgements: ""
       <h6>NYU/Google</h6>
     </div>
   </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://fchollet.com/">
+      <img class="people-pic" src="{{ "/static/img/people/chollet.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://fchollet.com/">François Chollet</a>
+      <h6>Google</h6>
+    </div>
+  </div>
 </div>
 
 <hr />
@@ -157,21 +166,21 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-6 col-lg-3">
-    <a href="https://cocosci.mit.edu/josh">
-      <img class="people-pic" src="{{ "/static/img/people/jt.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://cocosci.mit.edu/josh">Joshua Tenenbaum</a>
-      <h6>Massachusetts Institute of Technology</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
     <a href="https://rizar.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/db.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://rizar.github.io/">Dzmitry Bahdanau</a>
       <h6>Service Now</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://cocosci.mit.edu/josh">
+      <img class="people-pic" src="{{ "/static/img/people/jt.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://cocosci.mit.edu/josh">Joshua Tenenbaum</a>
+      <h6>Massachusetts Institute of Technology</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
@@ -183,7 +192,15 @@ acknowledgements: ""
       <h6>NYU/Google</h6>
     </div>
   </div>
-
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://fchollet.com/">
+      <img class="people-pic" src="{{ "/static/img/people/chollet.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://fchollet.com/">François Chollet</a>
+      <h6>Google</h6>
+    </div>
+  </div>
 </div>
 
 
@@ -273,7 +290,7 @@ acknowledgements: ""
 <hr />
 
 
-<br/>
+<!-- <br/>
 <center>
 <img width="500px" height="500px" src="{{ "/static/img/ai.webp" | prepend:site.baseurl }}">
-</center>
+</center> -->
