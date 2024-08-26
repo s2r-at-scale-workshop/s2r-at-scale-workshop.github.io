@@ -243,11 +243,11 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>9:00 - 9:50</td>
-          <td>Keynote 1: Linzen</td>
+          <td>Keynote 1: Tal Linzen</td>
         </tr>
         <tr>
           <td>9:50 - 10:40</td>
-          <td>Keynote 2: Tenenbaum</td>
+          <td>Keynote 2: Joshua Tenenbaum</td>
         </tr>
         <tr>
           <td>10:40 - 11:00</td>
@@ -255,7 +255,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>11:00 - 11:50</td>
-          <td>Keynote 3: Mitchell</td>
+          <td>Keynote 3: Melanie Mitchell</td>
         </tr>
         <tr>
           <td>11:50 - 12:50</td>
@@ -267,7 +267,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>1:50 - 2:40</td>
-          <td>Keynote 4: Weston</td>
+          <td>Keynote 4: Jason Weston</td>
         </tr>
         <tr>
           <td>2:40 - 3:00</td>
@@ -275,7 +275,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>3:00 - 3:50</td>
-          <td>Keynote 5: Chollet</td>
+          <td>Keynote 5: François Chollet</td>
         </tr>
         <tr>
           <td>3:50 - 4:00</td>
