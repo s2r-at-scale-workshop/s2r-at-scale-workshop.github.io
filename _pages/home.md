@@ -314,7 +314,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://federicobianchi.io/">Federico Bianchi</a>
-      <h6>OpenEvidence</h6>
+      <h6>Xyla</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
@@ -376,7 +376,7 @@ acknowledgements: ""
 <hr />
 
 
-<br/>
+<!-- <br/>
 <center>
 <img width="500px" height="500px" src="{{ "/static/img/ai.webp" | prepend:site.baseurl }}">
-</center>
+</center> -->
