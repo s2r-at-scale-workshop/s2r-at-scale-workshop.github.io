@@ -108,7 +108,7 @@ acknowledgements: ""
 </div>
 
 <div class="row">
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-2">
     <a href="https://melaniemitchell.me/" target="_blank">
       <img class="people-pic" src="{{ "/static/img/people/mm.jpg" | prepend:site.baseurl }}">
     </a>
@@ -117,7 +117,7 @@ acknowledgements: ""
       <h6>Santa Fe Institute</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-2">
     <a href="https://cocosci.mit.edu/josh">
       <img class="people-pic" src="{{ "/static/img/people/jt.jpg" | prepend:site.baseurl }}">
     </a>
@@ -126,13 +126,31 @@ acknowledgements: ""
       <h6>Massachusetts Institute of Technology</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-2">
     <a href="https://tallinzen.net/">
       <img class="people-pic" src="{{ "/static/img/people/tl.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://tallinzen.net/">Tal Linzen</a>
       <h6>NYU/Google</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-2">
+    <a href="https://fchollet.com/">
+      <img class="people-pic" src="{{ "/static/img/people/fc.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://fchollet.com/">François Chollet</a>
+      <h6>Google</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-2">
+    <a href="https://ai.meta.com/people/1163645124801199/jason-weston/">
+      <img class="people-pic" src="{{ "/static/img/people/jw.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://ai.meta.com/people/1163645124801199/jason-weston/">Jason Weston</a>
+      <h6>Meta/NYU</h6>
     </div>
   </div>
 </div>
@@ -156,7 +174,16 @@ acknowledgements: ""
 </div>
 
 <div class="row">
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-2">
+    <a href="https://melaniemitchell.me/" target="_blank">
+      <img class="people-pic" src="{{ "/static/img/people/mm.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://melaniemitchell.me/">Melanie Mitchell</a>
+      <h6>Santa Fe Institute</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-2">
     <a href="https://cocosci.mit.edu/josh">
       <img class="people-pic" src="{{ "/static/img/people/jt.jpg" | prepend:site.baseurl }}">
     </a>
@@ -165,7 +192,16 @@ acknowledgements: ""
       <h6>Massachusetts Institute of Technology</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-2">
+    <a href="https://fchollet.com/">
+      <img class="people-pic" src="{{ "/static/img/people/fc.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://fchollet.com/">François Chollet</a>
+      <h6>Google</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-2">
     <a href="https://rizar.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/db.png" | prepend:site.baseurl }}">
     </a>
@@ -174,7 +210,7 @@ acknowledgements: ""
       <h6>Service Now</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-2">
     <a href="https://tallinzen.net/">
       <img class="people-pic" src="{{ "/static/img/people/tl.jpeg" | prepend:site.baseurl }}">
     </a>
@@ -186,6 +222,73 @@ acknowledgements: ""
 
 </div>
 
+<!-- Tentative Schedule -->
+
+<hr />
+
+<div class="row" id="schedule">
+  <div class="col-xs-12">
+    <h2>Tentative Schedule</h2>
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th>Time</th>
+          <th>Event</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>8:55 - 9:00</td>
+          <td>Opening Remarks</td>
+        </tr>
+        <tr>
+          <td>9:00 - 9:50</td>
+          <td>Keynote 1: Linzen</td>
+        </tr>
+        <tr>
+          <td>9:50 - 10:40</td>
+          <td>Keynote 2: Tenenbaum</td>
+        </tr>
+        <tr>
+          <td>10:40 - 11:00</td>
+          <td>Coffee Break</td>
+        </tr>
+        <tr>
+          <td>11:00 - 11:50</td>
+          <td>Keynote 3: Mitchell</td>
+        </tr>
+        <tr>
+          <td>11:50 - 12:50</td>
+          <td>Poster Session</td>
+        </tr>
+        <tr>
+          <td>12:50 - 1:50</td>
+          <td>Lunch Break</td>
+        </tr>
+        <tr>
+          <td>1:50 - 2:40</td>
+          <td>Keynote 4: Weston</td>
+        </tr>
+        <tr>
+          <td>2:40 - 3:00</td>
+          <td>Break</td>
+        </tr>
+        <tr>
+          <td>3:00 - 3:50</td>
+          <td>François Chollet</td>
+        </tr>
+        <tr>
+          <td>3:50 - 4:00</td>
+          <td>Closing Remarks</td>
+        </tr>
+        <tr>
+          <td>4:00 - 5:30</td>
+          <td>Panel</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
 
 <hr />
 
