@@ -275,7 +275,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>3:00 - 3:50</td>
-          <td>François Chollet</td>
+          <td>Keynote 5: Chollet</td>
         </tr>
         <tr>
           <td>3:50 - 4:00</td>
@@ -314,7 +314,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://federicobianchi.io/">Federico Bianchi</a>
-      <h6>Xyla</h6>
+      <h6>OpenEvidence</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
