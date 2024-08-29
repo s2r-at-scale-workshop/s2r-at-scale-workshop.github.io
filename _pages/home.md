@@ -76,6 +76,7 @@ acknowledgements: ""
         <p>
       All submissions must be in PDF format. The submissions must be formated using the <a style="color:#2980b9;font-weight:400;" href="https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip">NeurIPS 2024 LaTeX style file</a>. We accept both <i>short (4 pages)</i> and <i>long papers (8 pages)</i>. Short papers generally have a point that can be described in a few pages. For example, it can be a small, focused contribution, a negative result, an opinion piece, or an interesting application nugget. The page limit includes all figures and tables; additional pages containing statements of acknowledgments, funding disclosures, and references are allowed. The OpenReview-based review process will be double-blind to avoid potential conflicts of interest.
       </p>
+      <p>Arbitrary-length appendices are allowed at the end of the paper. Note that reviewers are encouraged but not required to review them.</p>
       <p>
         <b>Submission deadline:</b> Sept 23, 2024
       </p>
