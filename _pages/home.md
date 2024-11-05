@@ -254,48 +254,56 @@ acknowledgements: ""
           <td>Opening Remarks</td>
         </tr>
         <tr>
-          <td>9:00 - 9:50</td>
+          <td>9:00 - 9:30</td>
           <td>Keynote 1: Tal Linzen</td>
         </tr>
         <tr>
-          <td>9:50 - 10:40</td>
+          <td>9:30 - 10:00</td>
+          <td>Lightening Talks (4 papers x 5)</td>
+        </tr>
+        <tr>
+          <td>10:00 - 10:35</td>
           <td>Keynote 2: Joshua Tenenbaum</td>
         </tr>
         <tr>
-          <td>10:40 - 11:00</td>
-          <td>Coffee Break</td>
+          <td>10:35 - 10:55</td>
+          <td>Coffee break & Poster</td>
         </tr>
         <tr>
-          <td>11:00 - 11:50</td>
+          <td>10:55 - 11:30</td>
           <td>Keynote 3: Melanie Mitchell</td>
         </tr>
         <tr>
-          <td>11:50 - 12:50</td>
+          <td>11:30 - 1:00</td>
           <td>Poster Session</td>
         </tr>
         <tr>
-          <td>12:50 - 1:50</td>
+          <td>1:00 - 2:00</td>
           <td>Lunch Break</td>
         </tr>
         <tr>
-          <td>1:50 - 2:40</td>
+          <td>2:00 - 2:35</td>
           <td>Keynote 4: Jason Weston</td>
         </tr>
         <tr>
-          <td>2:40 - 3:00</td>
-          <td>Break</td>
+          <td>2:35 - 2:45</td>
+          <td>ARC Basis</td>
         </tr>
         <tr>
-          <td>3:00 - 3:50</td>
+          <td>2:45 - 3:00</td>
+          <td>Break & Poster</td>
+        </tr>
+        <tr>
+          <td>3:00 - 3:35</td>
           <td>Keynote 5: François Chollet</td>
         </tr>
         <tr>
-          <td>3:50 - 4:00</td>
-          <td>Closing Remarks</td>
+          <td>3:35 - 5:00</td>
+          <td>Panel</td>
         </tr>
         <tr>
-          <td>4:00 - 5:30</td>
-          <td>Panel</td>
+          <td>5:00 - 5:30</td>
+          <td>Poster & Social</td>
         </tr>
       </tbody>
     </table>
