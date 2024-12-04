@@ -30,67 +30,85 @@ acknowledgements: ""
 
 <br />
 
-<hr />
 
-
-<!-- CfP -->
-<div class="row" id="cfp">
-  <div class="col-xs-12">
-    <h2>Call for Papers</h2>
-  </div>
-</div>
-<div class="row">
-  <div class="col-xs-12">
-    <p>
-      The authors are welcome to submit a 4-page or 8-page (short/long) paper based on in-progress work, or a relevant paper being presented at the main conference, that aims to answer the following questions:
-    </p>
-    <p>
-          <ul>
-            <li>What do we need to imbue language models with System-2 reasoning capabilities?</li>
-            <li>Do we need this kind of capability?</li>
-            <li>Are scale and the “bitter lesson” going to dictate how the future of AI technology will unfold?</li>
-            <li>Do we need a different mechanism for implementing System-2 reasoning, or should it be a property that emerges from a possibly different training method?</li>
-            <li>Where should a system like this be implemented? Implicitly inside the model, or explicitly in
-            some engineered system around the model, like search or graph of thought?</li>
-            <li> How do we benchmark System-2-like generalization? How do we avoid data contamination?</li>
-          </ul>
-      </p>
-      <p>We welcome review and positional papers that may foster discussions. Accepted papers will be presented during poster sessions, with exceptional submissions selected for spotlight oral presentations. Accepted papers will be made publicly available as <i>*non-archival*</i> reports, allowing future submissions to archival conferences or journals. </p>
-  </div>
-</div>
-
+<!-- Tentative Schedule -->
 
 <hr />
 
-<!-- Submission -->
-<div class="row" id="guidelines">
+<div class="row" id="schedule">
   <div class="col-xs-12">
-    <h2>Submission Guidelines</h2>
+    <h2>Tentative Schedule</h2>
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th>Time</th>
+          <th>Event</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>8:55 - 9:00</td>
+          <td>Opening Remarks</td>
+        </tr>
+        <tr>
+          <td>9:00 - 9:30</td>
+          <td>Keynote 1: Tal Linzen</td>
+        </tr>
+        <tr>
+          <td>9:30 - 10:00</td>
+          <td>Lightening Talks (4 papers x 5)</td>
+        </tr>
+        <tr>
+          <td>10:00 - 10:35</td>
+          <td>Keynote 2: Joshua Tenenbaum</td>
+        </tr>
+        <tr>
+          <td>10:35 - 10:55</td>
+          <td>Coffee break & Poster</td>
+        </tr>
+        <tr>
+          <td>10:55 - 11:30</td>
+          <td>Keynote 3: Melanie Mitchell</td>
+        </tr>
+        <tr>
+          <td>11:30 - 1:00</td>
+          <td>Poster Session</td>
+        </tr>
+        <tr>
+          <td>1:00 - 2:00</td>
+          <td>Lunch Break</td>
+        </tr>
+        <tr>
+          <td>2:00 - 2:35</td>
+          <td>Keynote 4: Jason Weston</td>
+        </tr>
+        <tr>
+          <td>2:35 - 2:45</td>
+          <td>ARC Basis</td>
+        </tr>
+        <tr>
+          <td>2:45 - 3:00</td>
+          <td>Break & Poster</td>
+        </tr>
+        <tr>
+          <td>3:00 - 3:35</td>
+          <td>Keynote 5: François Chollet</td>
+        </tr>
+        <tr>
+          <td>3:35 - 5:00</td>
+          <td>Panel</td>
+        </tr>
+        <tr>
+          <td>5:00 - 5:30</td>
+          <td>Poster & Social</td>
+        </tr>
+      </tbody>
+    </table>
   </div>
-</div>
-<div class="row">
-    <div class="col-xs-12">
-      <p>
-            Please upload submissions on <a style="color:#2980b9;font-weight:400;" href="https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/Sys2-Reasoning">OpenReview</a>.
-        </p>
-        <p>
-      All submissions must be in PDF format. The submissions must be formated using the <a style="color:#2980b9;font-weight:400;" href="https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip">NeurIPS 2024 LaTeX style file</a>. We accept both <i>short (4 pages)</i> and <i>long papers (8 pages)</i>. Short papers generally have a point that can be described in a few pages. For example, it can be a small, focused contribution, a negative result, an opinion piece, or an interesting application nugget. The page limit includes all figures and tables; additional pages containing statements of acknowledgments, funding disclosures, and references are allowed. The OpenReview-based review process will be double-blind to avoid potential conflicts of interest.
-      </p>
-      <p>Arbitrary-length appendices are allowed at the end of the paper. Note that reviewers are encouraged but not required to review them.</p>
-
-      <p>
-        <b>Submission deadline:</b> Sept 26, 2024 <b>(extended)</b>
-      </p>
-      <p>
-        <b>Notification:</b> Oct 9, 2024
-      </p>
-    <p>
-        In case of any issues, feel free to email the workshop organizers at: <a href="mailto:s2-reasoning-neurips2024@googlegroups.com">s2-reasoning-neurips2024@googlegroups.com</a>.
-    </p>
-    </div>
 </div>
 
 <hr />
+
 
 <!-- Speakers -->
 
@@ -234,81 +252,6 @@ acknowledgements: ""
 
 </div>
 
-<!-- Tentative Schedule -->
-
-<hr />
-
-<div class="row" id="schedule">
-  <div class="col-xs-12">
-    <h2>Tentative Schedule</h2>
-    <table class="table table-striped">
-      <thead>
-        <tr>
-          <th>Time</th>
-          <th>Event</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>8:55 - 9:00</td>
-          <td>Opening Remarks</td>
-        </tr>
-        <tr>
-          <td>9:00 - 9:30</td>
-          <td>Keynote 1: Tal Linzen</td>
-        </tr>
-        <tr>
-          <td>9:30 - 10:00</td>
-          <td>Lightening Talks (4 papers x 5)</td>
-        </tr>
-        <tr>
-          <td>10:00 - 10:35</td>
-          <td>Keynote 2: Joshua Tenenbaum</td>
-        </tr>
-        <tr>
-          <td>10:35 - 10:55</td>
-          <td>Coffee break & Poster</td>
-        </tr>
-        <tr>
-          <td>10:55 - 11:30</td>
-          <td>Keynote 3: Melanie Mitchell</td>
-        </tr>
-        <tr>
-          <td>11:30 - 1:00</td>
-          <td>Poster Session</td>
-        </tr>
-        <tr>
-          <td>1:00 - 2:00</td>
-          <td>Lunch Break</td>
-        </tr>
-        <tr>
-          <td>2:00 - 2:35</td>
-          <td>Keynote 4: Jason Weston</td>
-        </tr>
-        <tr>
-          <td>2:35 - 2:45</td>
-          <td>ARC Basis</td>
-        </tr>
-        <tr>
-          <td>2:45 - 3:00</td>
-          <td>Break & Poster</td>
-        </tr>
-        <tr>
-          <td>3:00 - 3:35</td>
-          <td>Keynote 5: François Chollet</td>
-        </tr>
-        <tr>
-          <td>3:35 - 5:00</td>
-          <td>Panel</td>
-        </tr>
-        <tr>
-          <td>5:00 - 5:30</td>
-          <td>Poster & Social</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</div>
 
 <hr />
 
@@ -390,6 +333,84 @@ acknowledgements: ""
       <a href="https://homes.cs.washington.edu/~yejin/">Yejin Choi</a>
       <h6>University of Washington / AI2</h6>
     </div>
+  </div>
+</div>
+
+
+<hr />
+
+<!-- CfP -->
+<div class="row" id="cfp">
+  <div class="col-xs-12">
+    <h2>Call for Papers</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+      The authors are welcome to submit a 4-page or 8-page (short/long) paper based on in-progress work, or a relevant paper being presented at the main conference, that aims to answer the following questions:
+    </p>
+    <p>
+          <ul>
+            <li>What do we need to imbue language models with System-2 reasoning capabilities?</li>
+            <li>Do we need this kind of capability?</li>
+            <li>Are scale and the “bitter lesson” going to dictate how the future of AI technology will unfold?</li>
+            <li>Do we need a different mechanism for implementing System-2 reasoning, or should it be a property that emerges from a possibly different training method?</li>
+            <li>Where should a system like this be implemented? Implicitly inside the model, or explicitly in
+            some engineered system around the model, like search or graph of thought?</li>
+            <li> How do we benchmark System-2-like generalization? How do we avoid data contamination?</li>
+          </ul>
+      </p>
+      <p>We welcome review and positional papers that may foster discussions. Accepted papers will be presented during poster sessions, with exceptional submissions selected for spotlight oral presentations. Accepted papers will be made publicly available as <i>*non-archival*</i> reports, allowing future submissions to archival conferences or journals. </p>
+  </div>
+</div>
+
+
+<hr />
+
+<!-- Submission -->
+<div class="row" id="guidelines">
+  <div class="col-xs-12">
+    <h2>Submission Guidelines</h2>
+  </div>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+      <p>
+            Please upload submissions on <a style="color:#2980b9;font-weight:400;" href="https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/Sys2-Reasoning">OpenReview</a>.
+        </p>
+        <p>
+      All submissions must be in PDF format. The submissions must be formated using the <a style="color:#2980b9;font-weight:400;" href="https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip">NeurIPS 2024 LaTeX style file</a>. We accept both <i>short (4 pages)</i> and <i>long papers (8 pages)</i>. Short papers generally have a point that can be described in a few pages. For example, it can be a small, focused contribution, a negative result, an opinion piece, or an interesting application nugget. The page limit includes all figures and tables; additional pages containing statements of acknowledgments, funding disclosures, and references are allowed. The OpenReview-based review process will be double-blind to avoid potential conflicts of interest.
+      </p>
+      <p>Arbitrary-length appendices are allowed at the end of the paper. Note that reviewers are encouraged but not required to review them.</p>
+
+      <p>
+        <b>Submission deadline:</b> Sept 26, 2024 <b>(extended)</b>
+      </p>
+      <p>
+        <b>Notification:</b> Oct 9, 2024
+      </p>
+    <p>
+        In case of any issues, feel free to email the workshop organizers at: <a href="mailto:s2-reasoning-neurips2024@googlegroups.com">s2-reasoning-neurips2024@googlegroups.com</a>.
+    </p>
+    </div>
+</div>
+
+<hr />
+
+
+<!-- Sponsors -->
+<div class="row" id="sponsors">
+  <div class="col-xs-12">
+    <h2>Sponsors</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://www.slido.com/" class="a-no-line">
+      <img class="sponsor-pic" src="{{ "/static/img/sponsors/slido.svg" | prepend:site.baseurl }}">
+    </a>
+
   </div>
 </div>
 
