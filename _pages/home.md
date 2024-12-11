@@ -277,7 +277,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://federicobianchi.io/">Federico Bianchi</a>
-      <h6>OpenEvidence</h6>
+      <h6>Formerly Stanford</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
