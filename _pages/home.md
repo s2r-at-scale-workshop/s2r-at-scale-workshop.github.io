@@ -412,6 +412,13 @@ acknowledgements: ""
     </a>
 
   </div>
+
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://www.basis.ai/" class="a-no-line">
+      <img class="sponsor-pic" src="{{ "/static/img/sponsors/basis-logo.svg" | prepend:site.baseurl }}">
+    </a>
+
+  </div>
 </div>
 
 <hr />
