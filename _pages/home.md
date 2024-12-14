@@ -47,20 +47,20 @@ acknowledgements: ""
       </thead>
       <tbody>
         <tr>
-          <td>8:55 - 9:00</td>
+          <td>9:00 - 9:15</td>
+          <td>Poster Setup</td>
+        </tr>
+        <tr>
+          <td>9:15 - 9:20</td>
           <td>Opening Remarks</td>
         </tr>
         <tr>
-          <td>9:00 - 9:30</td>
-          <td>Keynote 1: Tal Linzen</td>
-        </tr>
-        <tr>
-          <td>9:30 - 10:00</td>
-          <td>Lightening Talks (4 papers x 5)</td>
+          <td>9:20 - 10:00</td>
+          <td>Lightening Talks (4 papers x 10 min)</td>
         </tr>
         <tr>
           <td>10:00 - 10:35</td>
-          <td>Keynote 2: Joshua Tenenbaum</td>
+          <td>Keynote 1: Joshua Tenenbaum</td>
         </tr>
         <tr>
           <td>10:35 - 10:55</td>
@@ -68,7 +68,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>10:55 - 11:30</td>
-          <td>Keynote 3: Melanie Mitchell</td>
+          <td>Keynote 2: Melanie Mitchell</td>
         </tr>
         <tr>
           <td>11:30 - 1:00</td>
@@ -80,7 +80,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>2:00 - 2:35</td>
-          <td>Keynote 4: Jason Weston</td>
+          <td>Keynote 3: Jason Weston</td>
         </tr>
         <tr>
           <td>2:35 - 2:45</td>
@@ -92,7 +92,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>3:00 - 3:35</td>
-          <td>Keynote 5: François Chollet</td>
+          <td>Keynote 4: François Chollet</td>
         </tr>
         <tr>
           <td>3:35 - 5:00</td>
@@ -146,7 +146,7 @@ acknowledgements: ""
       <h6>Massachusetts Institute of Technology</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-2">
+  <!-- <div class="col-xs-6 col-lg-2">
     <a href="https://tallinzen.net/">
       <img class="people-pic" src="{{ "/static/img/people/tl.jpeg" | prepend:site.baseurl }}">
     </a>
@@ -154,7 +154,7 @@ acknowledgements: ""
       <a href="https://tallinzen.net/">Tal Linzen</a>
       <h6>NYU/Google</h6>
     </div>
-  </div>
+  </div> -->
   <div class="col-xs-6 col-lg-2">
     <a href="https://fchollet.com/">
       <img class="people-pic" src="{{ "/static/img/people/fc.jpg" | prepend:site.baseurl }}">
@@ -230,7 +230,7 @@ acknowledgements: ""
       <h6>Service Now</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-2">
+  <!-- <div class="col-xs-6 col-lg-2">
     <a href="https://tallinzen.net/">
       <img class="people-pic" src="{{ "/static/img/people/tl.jpeg" | prepend:site.baseurl }}">
     </a>
@@ -238,7 +238,7 @@ acknowledgements: ""
       <a href="https://tallinzen.net/">Tal Linzen</a>
       <h6>NYU/Google</h6>
     </div>
-  </div>
+  </div> -->
 
   <div class="col-xs-6 col-lg-2">
     <a href="https://ai.meta.com/people/1163645124801199/jason-weston/">
