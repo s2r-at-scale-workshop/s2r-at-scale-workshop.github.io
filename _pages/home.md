@@ -56,19 +56,19 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>9:20 - 9:30</td>
-          <td>Lightening Talk: <a href="https://openreview.net/forum?id=FdcrOyDKEc">softmax is not enough (for sharp out-of-distribution)</a></td>
+          <td>Lightning Talk: <a href="https://openreview.net/forum?id=FdcrOyDKEc">softmax is not enough (for sharp out-of-distribution)</a></td>
         </tr>
         <tr>
           <td>9:30 - 9:40</td>
-          <td>Lightening Talk: <a href="https://openreview.net/forum?id=yxVYRwdjzB">Compositional Generalization Across Distributional Shifts with Sparse Tree Operations</a></td>
+          <td>Lightning Talk: <a href="https://openreview.net/forum?id=yxVYRwdjzB">Compositional Generalization Across Distributional Shifts with Sparse Tree Operations</a></td>
         </tr>
         <tr>
           <td>9:40 - 9:50</td>
-          <td>Lightening Talk: <a href="https://openreview.net/forum?id=SEJg9yIhPz">System 1.5: Designing Metacognition in Artificial Intelligence</a></td>
+          <td>Lightning Talk: <a href="https://openreview.net/forum?id=SEJg9yIhPz">System 1.5: Designing Metacognition in Artificial Intelligence</a></td>
         </tr>
         <tr>
           <td>9:50 - 10:00</td>
-          <td>Lightening Talk: <a href="https://openreview.net/forum?id=s004OmYP2P">Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning</a></td>
+          <td>Lightning Talk: <a href="https://openreview.net/forum?id=s004OmYP2P">Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning</a></td>
         </tr>
         <tr>
           <td>10:00 - 10:35</td>
