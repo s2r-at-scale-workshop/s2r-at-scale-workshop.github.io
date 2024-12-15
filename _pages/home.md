@@ -96,7 +96,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>2:35 - 2:45</td>
-          <td>ARC Basis</td>
+          <td>Basis</td>
         </tr>
         <tr>
           <td>2:45 - 3:00</td>
