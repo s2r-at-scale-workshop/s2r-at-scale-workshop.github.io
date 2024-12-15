@@ -13,7 +13,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <center><h1>System 2 Reasoning At Scale</h1></center>
-    <center><h2>December 15, 2024. <a href="https://neurips.cc/">NeurIPS</a> Workshop, Vancouver, Canada</h2></center>
+    <center><h2>December 15, 2024, West Ballroom B. <a href="https://neurips.cc/">NeurIPS</a> Workshop, Vancouver, Canada</h2></center>
     
   </div>
 </div>
@@ -55,8 +55,20 @@ acknowledgements: ""
           <td>Opening Remarks</td>
         </tr>
         <tr>
-          <td>9:20 - 10:00</td>
-          <td>Lightening Talks (4 papers x 10 min)</td>
+          <td>9:20 - 9:30</td>
+          <td>Lightening Talk: <a href="https://openreview.net/forum?id=FdcrOyDKEc">softmax is not enough (for sharp out-of-distribution)</a></td>
+        </tr>
+        <tr>
+          <td>9:30 - 9:40</td>
+          <td>Lightening Talk: <a href="https://openreview.net/forum?id=yxVYRwdjzB">Compositional Generalization Across Distributional Shifts with Sparse Tree Operations</a></td>
+        </tr>
+        <tr>
+          <td>9:40 - 9:50</td>
+          <td>Lightening Talk: <a href="https://openreview.net/forum?id=SEJg9yIhPz">System 1.5: Designing Metacognition in Artificial Intelligence</a></td>
+        </tr>
+        <tr>
+          <td>9:50 - 10:00</td>
+          <td>Lightening Talk: <a href="https://openreview.net/forum?id=s004OmYP2P">Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning</a></td>
         </tr>
         <tr>
           <td>10:00 - 10:35</td>
