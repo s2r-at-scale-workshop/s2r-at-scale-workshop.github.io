@@ -80,7 +80,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>10:55 - 11:30</td>
-          <td>Keynote 2: Melanie Mitchell</td>
+          <td>Keynote 2: Melanie Mitchell: On Understanding and Abstraction in Humans and AI Systems</td>
         </tr>
         <tr>
           <td>11:30 - 1:00</td>
@@ -92,7 +92,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>2:00 - 2:35</td>
-          <td>Keynote 3: Jason Weston</td>
+          <td>Keynote 3: Jason Weston: Self-Training Methods for System 2 Reasoning</td>
         </tr>
         <tr>
           <td>2:35 - 2:45</td>
@@ -104,7 +104,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>3:00 - 3:35</td>
-          <td>Keynote 4: François Chollet</td>
+          <td>Keynote 4: François Chollet: ARC Prize 2024: What we learned</td>
         </tr>
         <tr>
           <td>3:35 - 5:00</td>
