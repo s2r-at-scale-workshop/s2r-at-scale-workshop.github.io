@@ -25,6 +25,9 @@ acknowledgements: ""
         <p>
           System 2 Reasoning At Scale is a one-day workshop that focuses on improving reasoning in neural networks, particularly the challenges and strategies for achieving System-2 reasoning in transformer-like models. The workshop addresses issues like distinguishing memorization from rule-based learning, understanding, syntactic generalization, and compositionality. The workshop also covers the importance of understanding how systematic models are in their decisions for AI safety, integrating neural networks with symbolic reasoning, and developing new architectures for enhanced reasoning capabilities.
         </p>
+        <center>
+          <a href="/" class="btn btn-primary btn-lg">View Upcoming Workshop Proposal (NeurIPS 2025)</a>
+        </center>
     </div>
 </div>
 
