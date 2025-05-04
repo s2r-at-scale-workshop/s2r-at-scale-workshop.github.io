@@ -135,11 +135,11 @@ acknowledgements: ""
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="#">
-      <img class="people-pic" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Portrait_Placeholder.png">
+    <a href="https://people.csail.mit.edu/hadeel/">
+      <img class="people-pic" src="{{ "/static/img/people/hadeel.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="#">Hadeel Alnegheimish</a>
+      <a href="https://people.csail.mit.edu/hadeel/">Hadeel Al-Negheimish</a>
       <h6>MIT</h6>
     </div>
   </div>
